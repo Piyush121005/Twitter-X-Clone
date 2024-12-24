@@ -11,12 +11,11 @@ Welcome to the Twitter Clone project! This MERN stack application is a feature-r
 -   ⚛️ **Tech Stack**: React.js, MongoDB, Node.js, Express, and Tailwind  
 -   🔐 **Authentication**: Secure user authentication with JSON Web Tokens (JWT)  
 -   ✍️ **Post Creation**: Create, like, comment, and delete posts (owner-only permissions for deletion)  
--   📷 **Image Management**: Upload profile pictures and cover images with Cloudinary integration  
 -   📝 **Profile Updates**: Edit profile information and manage your presence  
+-   📷 **Image Management**: Upload profile pictures and cover images with Cloudinary integration  
 -   🔔 **Notifications**: Get notified about important updates  
 -   👥 **User Interaction**: Suggested users to follow for enhanced engagement  
 -   🔥 **React Query**: Simplified data fetching, caching, and synchronization  
--   🌐 **Deployed Live**: Fully deployed and accessible online  
 -   ⏳ **And More**: Additional features to explore!  
 
 ---
