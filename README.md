@@ -1,6 +1,7 @@
-# Welcome to My GitHub Profile! 👋
+# Checkout my Twitter(X) Clone project code 👋
 
-Hi, I'm Bhavya Piyush, an aspiring software engineer passionate about building innovative solutions. Here's a glimpse into one of my featured projects:  
+Welcome to the Twitter Clone project! This MERN stack application is a feature-rich social media platform built to showcase the power of modern web development technologies. Explore the details of the project below:
+
 
 ---
 
